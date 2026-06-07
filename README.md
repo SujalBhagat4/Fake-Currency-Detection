@@ -1,5 +1,7 @@
 Fake Currency Detection using CNN
 
+link: https://sujal5485-fake-currency-detection.hf.space
+
 This project detects fake and genuine currency notes using a Convolutional Neural Network and provides a web-based interface for prediction.
 
 Project Overview  
@@ -30,12 +32,6 @@ Project Structure
 - project images – Sample images  
 - reports – Documentation  
 
-How to Run  
-- Install required Python libraries  
-- Run the application using  
-  python app.py  
-- Open the browser and navigate to  
-  http://127.0.0.1:5000/
 
 Future Improvements  
 - Improve model accuracy  
