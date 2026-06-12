@@ -35,8 +35,4 @@ Project Structure
 
 Future Improvements  
 - Improve model accuracy  
-- Support multiple currency denominations  
-- Deploy application on cloud platform  
-
-Author  
-Sujal
+- Support multiple currency denominations 
